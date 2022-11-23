@@ -6,14 +6,14 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Raphaël THIRY',
+  role: 'développeur et support informatique',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+  resume: 'https://acrobat.adobe.com/id/urn:aaid:sc:EU:f34afb14-5d6a-4693-a22d-a641099ba2db',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://fr.linkedin.com/in/raphaelthiry',
+    github: 'https://github.com/wpitboi',
   },
 }
 
@@ -49,23 +49,19 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Python',
+  'SQL',
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'PHP',
   'Git',
   'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'contact@thiryraphael.fr',
 }
 
 export { header, about, projects, skills, contact }
