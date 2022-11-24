@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'http://thiryraphael.fr',
+  title: 'Mon site',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Raphaël THIRY',
-  role: 'développeur et support informatique',
+  role: 'Développeur et support informatique',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Actuellement en études afin d\'obtenir le Brevet de Technicien Supérieur en Services informatiques aux organisations. En alternance à la Banque de France, je suis développeur et support aux projets dans la ligne de développement python.',
   resume: 'https://acrobat.adobe.com/id/urn:aaid:sc:EU:f34afb14-5d6a-4693-a22d-a641099ba2db',
   social: {
     linkedin: 'https://fr.linkedin.com/in/raphaelthiry',
@@ -21,28 +21,20 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Réseau social SQL',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Mise en place la base de données d’un nouveau réseau social. Spécificités décrites par le cahier des charges du client.',
+    stack: ['SQL', 'Modèle conceptuel', 'Modèle logique'],
+    sourceCode: 'https://github.com/wpitboi/reseau-social',
+    livePreview: 'https://github.com/wpitboi/reseau-social',
   },
   {
-    name: 'Project 2',
+    name: 'Portfolio',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+        'Création d\'un portfilio avec NODE.js.',
+    stack: ['Javascript', 'HTML', 'CSS', 'Node.js'],
+    sourceCode: 'https://github.com/wpitboi/real_portfolio',
+    livePreview: 'https://github.com/wpitboi/real_portfolio',
   },
 ]
 
@@ -50,6 +42,7 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'Python',
+  'Java',
   'SQL',
   'HTML',
   'CSS',
