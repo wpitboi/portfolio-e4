@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'http://thiryraphael.fr',
-  title: 'Mon site',
+  title: 'Portfolio',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Raphaël THIRY',
   role: 'Développeur et support informatique',
   description:
@@ -18,8 +16,6 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Réseau social SQL',
     description:
@@ -39,8 +35,6 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'Python',
   'Java',
   'SQL',
@@ -53,7 +47,6 @@ const skills = [
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'contact@thiryraphael.fr',
 }
 
