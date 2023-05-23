@@ -8,7 +8,7 @@ const about = {
   role: 'Développeur et support informatique',
   description:
     'Actuellement en études afin d\'obtenir le Brevet de Technicien Supérieur en Services informatiques aux organisations. En alternance à la Banque de France, je réalise du développement, support aux projets, audit de code, articles, ateliers et présentations dans la ligne de développement python.',
-  resume: 'https://acrobat.adobe.com/id/urn:aaid:sc:EU:f34afb14-5d6a-4693-a22d-a641099ba2db',
+  resume: 'https://drive.google.com/file/d/1QlEUSsu8Ph5SusAeBP3rWwSXsmtu43oS/view?usp=sharing',
   social: {
     linkedin: 'https://fr.linkedin.com/in/raphaelthiry',
     github: 'https://github.com/wpitboi',
