@@ -48,6 +48,22 @@ const projects = [
     sourceCode: 'https://github.com/wpitboi',
     livePreview: 'https://github.com/wpitboi/',
   },
+  {
+    name: 'Site Java Avec Symfony',
+    description:
+        'Site qui tourne à l\'aide de composants préconfigurés',
+    stack: ['PHP', 'Symfony', 'CI'],
+    sourceCode: 'https://github.com/wpitboi',
+    livePreview: 'https://github.com/wpitboi/',
+  },
+  {
+    name: 'Application Android',
+    description:
+        'Application de prise de rendez-vous, connection à base de données',
+    stack: ['Java', 'Android', 'XML', 'SQL'],
+    sourceCode: 'https://github.com/wpitboi',
+    livePreview: 'https://github.com/wpitboi/',
+  },
 ]
 
 const skills = [
